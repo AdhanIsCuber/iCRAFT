@@ -1,0 +1,12 @@
+{
+  "name": "iCraft",
+  "version": "1.0.0",
+  "description": "Webapp mengenai sharing tutorial DIY",
+  "main": "app.js",
+  "author": "Wirya Ramadhan",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}
